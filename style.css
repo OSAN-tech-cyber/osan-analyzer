@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    padding:20px;
+    background:#111;
+    color:#fff;
+    font-family:Arial, sans-serif;
+    text-align:center;
+}
+
+h1{
+    color:#00ff99;
+}
+
+button{
+    padding:12px 25px;
+    font-size:18px;
+    border:none;
+    border-radius:8px;
+    background:#00ff99;
+    color:#111;
+    cursor:pointer;
+    margin:20px 0;
+}
+
+#tick{
+    font-size:35px;
+    margin-top:20px;
+}
+
+#digit{
+    font-size:70px;
+    color:#00ff99;
+    margin:20px 0;
+}
+
+#history{
+    margin-top:20px;
+    word-break:break-word;
+    line-height:30px;
+}
